@@ -15,8 +15,9 @@
   
 </p>
 
-
-To access admin page, add url /admin. Example http://localhost/school-website-master/admin
+<p align='center'>
+  To access admin page, add url /admin. Example http://localhost/school-website-master/admin
+</p>
 
 ## Tampilan Aplikasi
 ![ss](asset/ss1.png)
